@@ -1,7 +1,7 @@
 ;Proyecto Calculadora Basica en Ensamblador 8086
 ;Autores:
 ;			Quintanar Ramírez Luis Enrique
-;			                  Eduardo Tonathiu
+;			Garcés GómezEduardo Tonathiu
 ;
 title "Calculadora Basica"
 	.model small
